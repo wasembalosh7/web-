@@ -1,0 +1,155 @@
+body{
+	background-color: rgb(51, 51, 51);
+
+}
+.divnav{
+	position:fixed;
+	z-index: 2;
+	width: 100%;
+  
+}
+
+.logo2{
+	margin: auto;
+	display: none;
+
+}
+
+.navbar-collapsear{
+position: absolute;
+top:20px
+}
+.active:hover{
+
+border-bottom: 2px solid  #91C827;
+font-weight: bold;
+
+}
+.active{
+	margin-top: 5px;
+}
+.web{
+	background-image:url(compu.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	padding-top: 50px;
+    
+	margin-bottom: 30px;
+
+}
+.bgblue
+{
+	background-color:#162C3B ;
+	color:white;
+	height: 359px;
+	padding-left: 40px;
+	padding-top: 30px;
+	line-height: 40px;
+}
+.porofil{
+	
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	border-bottom: 2px solid  #91C827;
+	padding-bottom: 10px;
+	opacity: 0;
+	
+	
+}
+.name{
+	color: white;
+	line-height: 40px;
+	font-size: 20px;
+
+}
+.p1 , .p2 , .p3
+
+{
+	margin-top: 20px;
+}
+
+.div img{
+  margin:auto;
+  
+  padding: 10px;
+  
+background-color: white;
+}
+
+.Software{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	color: #91C827;
+	padding-bottom: 30px;
+
+}
+.blue{
+	background-color: #162C3B;
+	padding:0px;
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.i2{
+	margin-top: 30px;
+}
+.About1  {
+border-bottom: 2px solid  #91C827;
+font-size: 30px;
+}
+.Contact{
+	border-bottom: 3px solid  #91C827;
+font-size: 40px;
+font-weight: bold;
+color: white;
+
+
+}
+.interested{
+	color: white;
+}
+.istockphoto img{
+height: 359px;
+}
+.bgblue2 a{
+	font-size: 20px;
+	color: white;
+	
+}
+.bgblue2 a:hover{
+	color: #91C827;
+	transition: 0.5s;
+}
+.bgblue2 span{
+	padding-left:30px ;
+	padding-top: 30px;
+}
+.up{
+    background-color: #91C827;
+    color: white;
+    font-size: 20px;
+    padding: 4px 7px;
+    border-radius: 50px;
+    position: fixed;
+    right: -40px;
+    bottom: 10px;
+    cursor: pointer;
+
+}
+.disign img:hover{
+transform: rotateY(360deg);
+transition: 0.5s;
+}
+.fac:hover{
+color: blue;
+transition: 0.5s;
+}
+
+	.wha:hover{
+		color: #91C827;;
+		transition: 0.5s;
+		}
+	

@@ -1,0 +1,12 @@
+
+@keyframes down{
+    0%{
+        margin-left: -900px;
+        transition: 0.5s;
+    }
+    100%{
+        margin-left: 0px;
+        transition: 0.5s;
+    }
+  
+}

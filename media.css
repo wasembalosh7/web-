@@ -1,0 +1,132 @@
+@media(width:768px){
+   
+    .bgblue
+    {
+        background-color:#162C3B ;
+        color:white;
+        height: 228px;
+        line-height: 14px;
+    }
+    .bgblue p
+    {
+        margin-top: 23px;
+    }
+    .istockphoto img{
+        height: 225px;
+        }
+    .name{
+        color: white;
+        line-height: 30px;
+        font-size: 16px;
+    
+    }
+ 
+   
+    
+}
+@media(max-width:765px){
+  
+    .div{
+        background-color: white;
+    }
+        .Software{
+            color: white;
+            font-weight: bold;
+            font-size: 12px;
+            color: green;
+            padding-bottom: 30px;
+        
+        }
+        .bgblue2 a{
+            font-size: 15px;
+            color: white;
+        }
+        .logo2{
+            margin: auto;
+            display: none;
+            margin-top: 90px;
+            
+        }
+        .istockphoto img{
+            height: 250px;
+            }
+            .bgblue{
+                height: 250px;
+            }
+            .bgblue p{
+               line-height: 25px;
+            } 
+        
+}
+@media(width:1024px){
+   
+    .bgblue
+    {
+        background-color:#162C3B ;
+        color:white;
+        height: 295px;
+       
+  
+        line-height: 35px;
+   
+    }
+    .istockphoto img{
+        height: 293px;
+        }
+    
+}
+@media(width:540px){
+   
+    .bgblue
+    {
+        background-color:#162C3B ;
+        color:white;
+        height: 230px;
+    }
+    .nameprofil1{
+        margin-top: 40px;
+        }
+        .i2{
+            margin-top: 10px;
+        }
+    .p1 img{
+        width: 150px;
+    }
+    .istockphoto img{
+       width: 100%;
+        }
+   
+}
+@media(width:320px){
+   
+    .bgblue2 a{
+       font-size: 13px;
+    }
+    .bgblue p{
+        line-height: 15px;
+     } 
+}
+@media(width:280px){
+   
+    .bgblue2 a{
+       font-size: 11px;
+    }
+    .bgblue2 span{
+        font-size: 10px;
+     }
+     .bgblue p{
+        line-height: 14px;
+     } 
+}
+@media(width:360px){
+    .bgblue p{
+        line-height: 15px;
+     } 
+}
+
+@media(width:375px){
+    .bgblue p{
+        line-height: 15px;
+     } 
+}
+
